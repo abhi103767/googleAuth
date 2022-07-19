@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846470093311",
+    "project_id": "avinashproject-54163",
+    "storage_bucket": "avinashproject-54163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846470093311:android:1ec17e0f383290bc10efca",
+        "android_client_info": {
+          "package_name": "com.amanproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846470093311-sp59s3g1fqvqevlgbipq9a83hjal792s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanproject",
+            "certificate_hash": "b20f8036f160682d2bd9ff10f4e85a681078e40b"
+          }
+        },
+        {
+          "client_id": "846470093311-15ko6d2kj3poa3dtubi5ld9ef5rpimon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaiu-cVjGIOW4IwcW1Rk-IHqDqeAHcFiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846470093311-15ko6d2kj3poa3dtubi5ld9ef5rpimon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
